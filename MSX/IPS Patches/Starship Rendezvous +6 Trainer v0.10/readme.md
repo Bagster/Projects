@@ -9,7 +9,8 @@
 
 * Girl-
   - UNcensored images  
-  - No Time limit- 99x of all 'items'- Unlimited stamina- Easy Gameplay  
+  - No Time limit- 99x of all 'items'- Unlimited stamina  
+  - Easy Gameplay  
 
 * Key Combinations  
   - ESC + F2 + F4    Next Level  
@@ -20,10 +21,11 @@
   - Game starts In TURBO mode on Turbo-r & WSX  
 
 * How to patch  
-  - Find the 1st game disk 'Starship Rendezvous (1988)(Scaptrust)(jp)(Disk 1 of 2).dsk' 
+  - Find the 1st game disk 'Starship Rendezvous (1988)(Scaptrust)(jp)(Disk 1 of 2).dsk'  
     (SHA1:83de15cd109f3cb3b15ac5e92c2a7e9020fcf23e)  
   - Patch Disk 1 with for example LunarIPS or other IPS tools.  
-  - End result should be (SHA1:cc32714376ec8ce3a77d5d7cb9a3af734a8b51ae)  
+  - End result should be  
+    (SHA1:cc32714376ec8ce3a77d5d7cb9a3af734a8b51ae)  
 
 * If you want to have the UNcensored images on the FRS HDD version of Starship Rendezvous,
   Just copy the files SMLC0.MPC SMLC1.MPC SMLC2.MPCfrom a patched disk to your Hard/Flash drive.  
