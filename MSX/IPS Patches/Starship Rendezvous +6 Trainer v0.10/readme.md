@@ -1,9 +1,9 @@
-﻿The Lemon Grass Team Presents: Starchip Rendezvous +6 Trainer IPS Patch v0.10 
-![NewTitleScreen](TitleScreen.jpg)  
+﻿**The Lemon Grass Team Presents: Starchip Rendezvous +6 Trainer IPS Patch v0.10** 
  
 
 * Fixed Intro that said "Starship Rendzvous"  
-
+![NewTitleScreen](TitleScreen.jpg)  
+  
 * Level-  
   - Invulnerable  
 
