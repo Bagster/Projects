@@ -27,7 +27,7 @@
   - End result should be  
     (SHA1:cc32714376ec8ce3a77d5d7cb9a3af734a8b51ae)  
 
-* If you want to have the UNcensored images on the FRS HDD version of Starship Rendezvous,
+* If you want to have the UNcensored images on the FRS HDD version of Starship Rendezvous,  
   Just copy the files SMLC0.MPC SMLC1.MPC SMLC2.MPC off a patched disk to your Hard/Flash drive.  
 
 * If you want the fixed intro in the FRS version,  
