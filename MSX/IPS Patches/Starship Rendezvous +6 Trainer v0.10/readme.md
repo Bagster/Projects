@@ -28,10 +28,10 @@
     (SHA1:cc32714376ec8ce3a77d5d7cb9a3af734a8b51ae)  
 
 * If you want to have the UNcensored images on the FRS HDD version of Starship Rendezvous,
-  Just copy the files SMLC0.MPC SMLC1.MPC SMLC2.MPCfrom a patched disk to your Hard/Flash drive.  
+  Just copy the files SMLC0.MPC SMLC1.MPC SMLC2.MPC of a patched disk to your Hard/Flash drive.  
 
 * If you want the fixed intro in the FRS version,  
-  just copy OPEN0.P from the patched disk to your Hard/Flash drive.  
+  just copy OPEN0.P of the patched disk to your Hard/Flash drive.  
   
 
 ENJOY
