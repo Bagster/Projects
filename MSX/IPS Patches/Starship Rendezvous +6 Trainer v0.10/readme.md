@@ -33,5 +33,6 @@
 * If you want the fixed intro in the FRS version,  
   just copy OPEN0.P off the patched disk to your Hard/Flash drive.  
   
+  
 
 ENJOY
