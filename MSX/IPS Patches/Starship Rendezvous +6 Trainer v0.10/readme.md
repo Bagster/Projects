@@ -9,7 +9,8 @@
 
 * Girl
   - UNcensored images  
-  - No Time limit- 99x of all 'items'- Unlimited stamina  
+  - No Time limit  
+  - 99x of all 'items'- Unlimited stamina  
   - Easy Gameplay  
 
 * Key Combinations  
