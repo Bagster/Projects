@@ -4,10 +4,10 @@
 * Fixed Intro that said "Starship Rendzvous"  
 ![NewTitleScreen](TitleScreen.jpg)  
   
-* Level-  
+* Level  
   - Invulnerable  
 
-* Girl-
+* Girl
   - UNcensored images  
   - No Time limit- 99x of all 'items'- Unlimited stamina  
   - Easy Gameplay  
