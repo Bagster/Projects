@@ -15,7 +15,7 @@
   - Easy Gameplay  
 
 * Key Combinations  
-  - ESC + F2 + F4    Next Level  
+  - ESC + F2 + F4   Next Level  
   - F1  + F3 + F5    Add Stamina + 'items'  
 
 * General  
