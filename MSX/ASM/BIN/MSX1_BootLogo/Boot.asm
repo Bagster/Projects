@@ -1,4 +1,4 @@
-	output boot.bin
+	output boot.bin 
 
 
 	defpage 0
