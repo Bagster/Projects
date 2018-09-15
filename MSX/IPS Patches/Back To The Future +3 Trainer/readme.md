@@ -10,4 +10,6 @@ How to enter the Level Select menu.
 Hold [UP] + [LEFT] + [Select] keys and push [SPC] key.
 
 The game hints this feature in Level 2
+
+
  ![alt text]https://github.com/Bagster/Projects/blob/master/MSX/IPS_Patches/Back_To_The_Future_+3_Trainer/BTTF.jpg "Ghost Splash Screen")
