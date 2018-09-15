@@ -10,7 +10,7 @@ Patched with Back To The Future ROM SHA1:1a6a751334c663fbfdf93f617a7d779f76f488c
 Hold [Select] + [UP] + [LEFT] keys and push [Space].  
 
 **Note:**  
-Some keyboards have trouble with the key combination above
+Some keyboards have trouble with the key combination above  
 therefore i have included the BTTF.tcl script for OpenMSX to do the keypress for you.  
 
 **The game hints this feature in Level 2**  
