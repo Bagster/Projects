@@ -8,7 +8,7 @@ Patched with Back To The Future ROM SHA1:1a6a751334c663fbfdf93f617a7d779f76f488c
 
 
  **How to enter the Level Select menu.**  
-Hold [Select] + [UP] + [LEFT] keys and push [Space].  
+Hold [Select] + [UP] + [LEFT] keys and push [Space]. (Thanks to **_MrHydragon_**, he mentioned this on his stream)  
 
 **Note:**  
 Some keyboards have trouble with the key combination above  
