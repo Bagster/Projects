@@ -10,7 +10,7 @@
 
 
 main:	
-		ld a,(#f3b0)				;Current Width
+		ld a,(#f3b0)					;Current Width
 		sub #29						;With > 39 
 		jp nc,mode80
 			ld hl,#4800				;VRAM Pointer to #0800 + bit 6 set for Write
@@ -27,8 +27,8 @@ setfont:
 		out (#99),a					;Write Low byte VRAM Pointer
 		EI
 				
-		ld de,fontend-fontstart		;Set font length
-		ld hl,fontstart				;Set font begin
+		ld de,fontend-fontstart				;Set font length
+		ld hl,fontstart					;Set font begin
 		
 loop:
 		ld a,(hl)					;Load font byte
