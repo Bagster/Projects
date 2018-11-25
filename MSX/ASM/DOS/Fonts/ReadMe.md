@@ -1,6 +1,6 @@
-## Fonts  
+## Fonts for DOS
 
-Example code on how to load a Font in to VRAM.  
+Example code on how to load a Font into VRAM for DOS.  
 Works in Mode 40 and Mode 80.  
   
 Assembled with SJASM
