@@ -5,7 +5,7 @@ No need for MSX Basic anymore to change some settings,<br>
 when booting from your SD-Flashrom drive as described [Here] (http://meits.nl/disk-online.html#mfrsccsd)
 
 
-#####first.com
+**first.com**
 - Set some screen settings
 
 	- Screen 0 
@@ -14,7 +14,7 @@ when booting from your SD-Flashrom drive as described [Here] (http://meits.nl/di
 	- Color 15,0,0
 
 
-#####setfkeys.com
+**setfkeys.com**
 - Set F-Keys to folowing
 
 	- Key1 opfxsd_
@@ -26,7 +26,7 @@ when booting from your SD-Flashrom drive as described [Here] (http://meits.nl/di
 	- Key7 speedon +CR
 	- Key8 speedoff +CR
 
-#####clock.com
+**clock.com**
 - Writes some settings to the ClockChip 
 
 	- Beep 1,4
@@ -37,7 +37,7 @@ when booting from your SD-Flashrom drive as described [Here] (http://meits.nl/di
 	- Width 80
 	- Set Adjust (0,0)
 
-#####slot.com
+**slot.com**
 - Read slot of Current Disk Controller
 	- If slot 1 1.BAT is started
 	- If slot 2 2.BAT is started
