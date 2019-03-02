@@ -9,7 +9,7 @@ Speed.com       Switches CPU of a Panasonic MSX to 3.58 / 6Mhz
                 Speed 1 = 6Mhz / Speed 0 = 3.58Mhz   
    
    
-#Notes   
+**#Notes**   
 Basic equivalent   
    
 Speedon OUT 64,8:OUT 65,0   
