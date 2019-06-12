@@ -3,7 +3,7 @@
 ; Bank 1 Nibble 2 - 8
 ; It can be used to store a savegame for Firehawk Thexde 2
 
-	output test2.bin
+	output WrClkIO.bin
 
 
 	defpage 0
