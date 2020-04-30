@@ -9,7 +9,7 @@
 
 				jr begin
 nametag:
-				db "SetFkeys 0.1   "
+				db "SetFkeys 0.1  "
 				db "(c)2020 by      "
 				dw #614C,#7372,#5420,#6568,#3120,#5438,#2068
 				db "                  "
