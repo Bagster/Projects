@@ -37,13 +37,13 @@ begin:
 readfkeys:
 				;Read F-Keys loop
 					ld iy,(#fcc0)					;Inter-SlotCall 
-					ld a,6
-					ld ix,#0141						;BIOS CALL CLS
+					ld a,6							;Row 6
+					ld ix,#0141						;BIOS CALL GetKey
 					call #1c
 
 					cpl
 					or a
-					jr z,readfkeys						;if #ff no key pressed
+					jr z,readfkeys					;if #ff no key pressed
 
 				and %11100000
 				rlca
