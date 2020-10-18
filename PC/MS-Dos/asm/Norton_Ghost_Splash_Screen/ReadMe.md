@@ -6,8 +6,8 @@ this to create a small as possible executable COM file.<br>
 In other languages the executable is just to bulky.<br>
 
 Compiled Size:
-- Flat Assembler **740 bytes** (Gost.com v0.2)
-- Flat Assembler **1.954 bytes** (Gost.com v0.1)
+- Flat Assembler **740 bytes** (Ghost.com v0.2)
+- Flat Assembler **1.954 bytes** (Ghost.com v0.1)
 - The Draw **3.919 bytes**
 - Turbo C **23.646 bytes**
 - Quick Basic **32.006 bytes**
