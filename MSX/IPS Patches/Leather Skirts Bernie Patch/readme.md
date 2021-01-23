@@ -7,4 +7,4 @@ Patched DSK
 
 SHA1:1c66986a6e07d427ef60172a7f868c0b92a2f535
 
-![Bernie Patch](Bernie.jpg) 
+![Bernie Patch](Bernie02.jpg) 
